@@ -157,14 +157,3 @@ Use original, approved organization assets. Add useful alt text and optimize lar
 6. Merge to `main` only after approval.
 
 Do not change Squarespace DNS until the Netlify preview has been approved. Preserve all existing MX, TXT, verification, and email records during any future domain migration.
-
-## Security and Privacy
-
-Never commit:
-
-- student rosters
-- private phone numbers or email addresses
-- private Discord messages or prayer requests
-- login credentials, passwords, or API tokens
-- domain transfer codes
-- old officer signatures or private constitution pages
